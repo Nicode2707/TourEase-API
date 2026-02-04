@@ -16,6 +16,20 @@ It provides full CRUD operations along with advanced filtering features such as 
 This project demonstrates **real-world backend development practices** including layered architecture, DTO usage, exception handling, and database persistence.
 
 ---
+## 🚀 Project Preview
+
+<p align="center">
+  <img src="./tourease-preview.png"
+       alt="TourEase API Project Preview"
+       width="100%"
+       style="border-radius:12px;" />
+</p>
+
+> *Your Spring Boot–powered Tourist Spot Management REST API*
+
+
+
+---
 
 ## ✨ Features
 
